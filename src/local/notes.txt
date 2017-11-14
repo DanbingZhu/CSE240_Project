@@ -1,0 +1,6 @@
+1. Server depends mostly on address. steep drop in miss-rate after a point. linear decr for history. So, for lower budgets address and for higher budgets history.
+2. Sharp drop in miss-rate for server because of reduction in aliasing as budget increases.
+3. In case of server branches would be more random, low spacial locality
+4. INT requires longer history to predict. so, as budget incrs, history bits incrs miss-rate decreases sharply. Addr bits doesnt play much role in reduction. So as history bits increase as a result of increasing budget, miss-rate decreases sharply. Long history is prefered for these benchmarks.
+5. FP has more branches more local. as budget incrs, history bits incrs miss-rate decreases linearly. same is true for addr but rate is higher for history. so as budget incrs, due to combined effect of address (reduction in aliasing) and history (longer patters), miss rates drops significantly.
+6. For MM, branches are local as we are doing processing on multiple data. But branches depend on data which can be random or difficult to predict. Ther would be some pattern in the data but still difficult. So, increasing addr bits decreasing aliasing to some point, but after that no significant changes. history effect is little low.

@@ -1,0 +1,6 @@
+*/*.o
+*/predictor
+*/*.log
+*/*temp*
+*/*tmp*
+*/*.csv

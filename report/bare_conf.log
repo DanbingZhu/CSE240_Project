@@ -1,0 +1,461 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.24)  22 NOV 2016 23:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**bare_conf.tex
+(./bare_conf.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+Document Class: IEEEtran 2012/12/27 V1.8 by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 368.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 726.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 726.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEsubeqnnumrollback=\count90
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count91
+\@IEEEtranrubishbin=\box26
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen117
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count92
+))
+\Gin@req@height=\dimen118
+\Gin@req@width=\dimen119
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count93
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@tempdima=\dimen123
+\caption@indent=\dimen124
+\caption@parindent=\dimen125
+\caption@hangindent=\dimen126
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\ifx \@captype \@IEEEta
+blestring \footnotesize \bgroup \par \centering \@IEEEtabletopskipstrut {\norma
+lfont \footnotesize #1}\\{\normalfont \footnotesize \scshape #2}\par \addvspace
+ {0.5\baselineskip }\egroup \@IEEEtablecaptionsepspace \else \@IEEEfigurecaptio
+nsepspace \setbox \@tempboxa \hbox {\normalfont \footnotesize {#1.}\nobreakspac
+e \nobreakspace #2}\ifdim \wd \@tempboxa >\hsize \setbox \@tempboxa \hbox {\nor
+malfont \footnotesize {#1.}\nobreakspace \nobreakspace }\parbox [t]{\hsize }{\n
+ormalfont \footnotesize \noindent \unhbox \@tempboxa #2}\else \ifCLASSOPTIONcon
+ference \hbox to\hsize {\normalfont \footnotesize \hfil \box \@tempboxa \hfil }
+\else \hbox to\hsize {\normalfont \footnotesize \box \@tempboxa \hfil }\fi \fi 
+\fi .
+\c@ContinuedFloat=\count94
+)
+\c@KVtest=\count95
+\sf@farskip=\skip44
+\sf@captopadj=\dimen127
+\sf@capskip=\skip45
+\sf@nearskip=\skip46
+\c@subfigure=\count96
+\c@subfigure@save=\count97
+\c@lofdepth=\count98
+\c@subtable=\count99
+\c@subtable@save=\count100
+\c@lotdepth=\count101
+\sf@top=\skip47
+\sf@bottom=\skip48
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(./bare_conf.aux)
+\openout1 = `bare_conf.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 320.
+LaTeX Font Info:    ... okay on input line 320.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen128
+\scratchbox=\box27
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen129
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 406.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 406.
+
+<2-level_diagram.png, id=1, 150.5625pt x 329.23pt>
+File: 2-level_diagram.png Graphic file (type png)
+ <use 2-level_diagram.png>
+Package pdftex.def Info: 2-level_diagram.png used on input line 410.
+(pdftex.def)             Requested size: 72.26999pt x 158.03362pt.
+
+<alpha_diagram.png, id=3, 553.06625pt x 222.8325pt>
+File: alpha_diagram.png Graphic file (type png)
+ <use alpha_diagram.png>
+Package pdftex.def Info: alpha_diagram.png used on input line 423.
+(pdftex.def)             Requested size: 166.2212pt x 66.96927pt.
+
+[1{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./2-level_diagram.png> <./alpha_diagram.png>]
+<gshare_diagram.png, id=19, 393.47pt x 294.09875pt>
+File: gshare_diagram.png Graphic file (type png)
+ <use gshare_diagram.png>
+Package pdftex.def Info: gshare_diagram.png used on input line 445.
+(pdftex.def)             Requested size: 166.2212pt x 124.23863pt.
+
+Underfull \hbox (badness 6001) in paragraph at lines 456--457
+[]\OT1/ptm/m/n/10 We bench-mark our pre-dic-tor for 4 traces namely
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 456--457
+\OT1/ptm/m/n/10 INT(integer), FP(floating-point), MM(multi-media) and
+ []
+
+[2 <./gshare_diagram.png>] <2-level.pdf, id=27, 638.385pt x 430.60875pt>
+File: 2-level.pdf Graphic file (type pdf)
+
+<use 2-level.pdf>
+Package pdftex.def Info: 2-level.pdf used on input line 525.
+(pdftex.def)             Requested size: 166.2212pt x 112.11989pt.
+
+
+LaTeX Warning: Reference `results_local' on page 3 undefined on input line 529.
+
+
+<analysis_local_2.pdf, id=28, 363.3575pt x 218.8175pt>
+File: analysis_local_2.pdf Graphic file (type pdf)
+
+<use analysis_local_2.pdf>
+Package pdftex.def Info: analysis_local_2.pdf used on input line 534.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+<analysis_local_1.pdf, id=29, 363.3575pt x 218.8175pt>
+File: analysis_local_1.pdf Graphic file (type pdf)
+
+<use analysis_local_1.pdf>
+Package pdftex.def Info: analysis_local_1.pdf used on input line 541.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+<analysis_alpha_ghist.png, id=30, 362.7954pt x 217.7736pt>
+File: analysis_alpha_ghist.png Graphic file (type png)
+
+<use analysis_alpha_ghist.png>
+Package pdftex.def Info: analysis_alpha_ghist.png used on input line 551.
+(pdftex.def)             Requested size: 166.2212pt x 99.7783pt.
+ <alpha.pdf, id=31, 638.385pt x 430.60875pt>
+File: alpha.pdf Graphic file (type pdf)
+
+<use alpha.pdf>
+Package pdftex.def Info: alpha.pdf used on input line 560.
+(pdftex.def)             Requested size: 166.2212pt x 112.11989pt.
+ <analysis_perceptron_addr.png, id=32, 362.3136pt x 218.2554pt>
+File: analysis_perceptron_addr.png Graphic file (type png)
+
+<use analysis_perceptron_addr.png>
+Package pdftex.def Info: analysis_perceptron_addr.png used on input line 571.
+(pdftex.def)             Requested size: 166.2212pt x 100.12894pt.
+
+<analysis_perceptron_hist.png, id=33, 362.7954pt x 217.7736pt>
+File: analysis_perceptron_hist.png Graphic file (type png)
+
+<use analysis_perceptron_hist.png>
+Package pdftex.def Info: analysis_perceptron_hist.png used on input line 577.
+(pdftex.def)             Requested size: 166.2212pt x 99.7783pt.
+ [3 <./2-level.pdf> <./analysis_local_2.pdf> <./analysis_local_1.pdf> <./analys
+is_alpha_ghist.png>]
+<neural.pdf, id=389, 639.38875pt x 431.6125pt>
+File: neural.pdf Graphic file (type pdf)
+ <use neural.pdf>
+Package pdftex.def Info: neural.pdf used on input line 586.
+(pdftex.def)             Requested size: 166.2212pt x 112.20343pt.
+
+<analysis_gshare_addr.png, id=390, 334.3692pt x 219.219pt>
+File: analysis_gshare_addr.png Graphic file (type png)
+
+<use analysis_gshare_addr.png>
+Package pdftex.def Info: analysis_gshare_addr.png used on input line 595.
+(pdftex.def)             Requested size: 166.2212pt x 108.98035pt.
+
+<analysis_gshare_hist.png, id=391, 333.8874pt x 227.4096pt>
+File: analysis_gshare_hist.png Graphic file (type png)
+
+<use analysis_gshare_hist.png>
+Package pdftex.def Info: analysis_gshare_hist.png used on input line 601.
+(pdftex.def)             Requested size: 166.2212pt x 113.21524pt.
+ <gshare.pdf, id=392, 639.38875pt x 431.6125pt>
+File: gshare.pdf Graphic file (type pdf)
+
+<use gshare.pdf>
+Package pdftex.def Info: gshare.pdf used on input line 611.
+(pdftex.def)             Requested size: 166.2212pt x 112.20343pt.
+ <FP.pdf, id=393, 363.3575pt x 218.8175pt>
+File: FP.pdf Graphic file (type pdf)
+ <use FP.pdf>
+Package pdftex.def Info: FP.pdf used on input line 621.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+[4 <./alpha.pdf> <./analysis_perceptron_addr.png> <./analysis_perceptron_hist.p
+ng> <./neural.pdf> <./analysis_gshare_addr.png> <./analysis_gshare_hist.png> <.
+/gshare.pdf>] <INT.pdf, id=1038, 363.3575pt x 218.8175pt>
+File: INT.pdf Graphic file (type pdf)
+ <use INT.pdf>
+Package pdftex.def Info: INT.pdf used on input line 628.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+<MM.pdf, id=1039, 363.3575pt x 218.8175pt>
+File: MM.pdf Graphic file (type pdf)
+ <use MM.pdf>
+Package pdftex.def Info: MM.pdf used on input line 635.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+<SERVER.pdf, id=1040, 363.3575pt x 218.8175pt>
+File: SERVER.pdf Graphic file (type pdf)
+ <use SERVER.pdf>
+Package pdftex.def Info: SERVER.pdf used on input line 642.
+(pdftex.def)             Requested size: 166.2212pt x 100.10301pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 800.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 800.
+ [5 <./FP.pdf> <./INT.pdf> <./MM.pdf> <./SERVER.pdf>]
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+[6
+
+] (./bare_conf.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3724 strings out of 493117
+ 61802 string characters out of 6135433
+ 217439 words of memory out of 5000000
+ 7144 multiletter control sequences out of 15000+600000
+ 38757 words of font info for 72 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 44i,9n,42p,2121b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2014
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/
+texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2014/texmf-dist
+/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/ti
+mes/utmri8a.pfb>
+Output written on bare_conf.pdf (6 pages, 906876 bytes).
+PDF statistics:
+ 1361 PDF objects out of 1440 (max. 8388607)
+ 815 compressed objects within 9 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
